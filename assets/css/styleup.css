@@ -1,0 +1,7 @@
+/* le css suplémentaire */
+.text-blanc {
+    color: #fff !important;
+}
+.btn-rounded {
+    border-radius: 20px;
+}
